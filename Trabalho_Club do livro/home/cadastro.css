@@ -1,0 +1,32 @@
+body {
+    background-image: url(/Livraria/material/img/2019-01-15-10-41-32.jpg);
+    background-color: rgba(255, 255, 255, 0.5); /* Cor branca com 50% de opacidade */
+    background-size: cover; /* Para cobrir toda a área do corpo */
+    background-position: center; /* Para centralizar a imagem */
+}
+
+
+  
+.cadastro{
+  background-color: rgba(0, 0, 0, 0.712); /* Cor branca com 50% de transparência */
+}
+
+.cadastro{
+  padding: 30px;
+}
+
+.cadastro{
+  margin: 300px;
+}
+
+.cadastro{
+  color: aliceblue;
+}
+
+.botao{
+  margin: 0px 0px 10px 0px;
+}
+
+.botao1{   
+  margin: 10px 0px 0px 0px;
+}

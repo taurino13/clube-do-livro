@@ -1,0 +1,30 @@
+body {
+    background-image: url(/Livraria/material/img/2019-01-15-10-41-32.jpg);
+    background-size: cover; /* Para cobrir toda a área do corpo */
+    background-position: center; /* Para centralizar a imagem */
+  }
+  
+  .entrar{
+    background-color: rgba(0, 0, 0, 0.712); /* Cor branca com 50% de transparência */
+  }
+  
+  .entrar{
+    padding: 30px;
+  }
+  
+  .entrar{
+    margin: 300px;
+  }
+  
+  .entrar{
+    color: aliceblue;
+  }
+
+
+  .botao{
+    margin: 0px 0px 10px 330px;
+  }
+
+  .Senha{
+    margin: 30px 0px 10px 0px;
+  }
